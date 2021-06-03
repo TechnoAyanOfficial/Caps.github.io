@@ -878,7 +878,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
  .shrink {
     animation: .3s ease-in-out;
     animation-name: fadeInDown;
-    background-color: rgb(215, 223, 239);
+    background-color: rgba(19, 19, 19, 0.445);
 }
 
 @-webkit-keyframes fadeInDown {
@@ -941,7 +941,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 }
 .navbar-white.shrink .navbar-brand,
 .shrink .navbar-nav .nav-item .nav-link{
-    color: #333
+    color: rgb(255, 126, 20)
 }
 
 .navbar-dark .navbar-brand,
