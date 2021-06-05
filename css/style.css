@@ -737,7 +737,7 @@ ol {
     padding: 0 20px;
     min-width: 100px;
     color: #fff !important;
-    background: rgba(116, 80,254,0.7);
+    background-image: linear-gradient(to right, #d33c21c5 0%, #fe5050d3 50%, #d34a21ce 100%);
     height: 35px;
     border-radius: 50px;
     border: 1px solid #fff;
@@ -747,8 +747,8 @@ ol {
 .login-btn:hover,
 .login-btn:focus {
     color: #fff;
-    background: #7450fe;
-    border-color: #7450fe;
+    background: #4d010100;
+    border-color: #ff0a02;
 }
 
 .dream-btn {
@@ -878,7 +878,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
  .shrink {
     animation: .3s ease-in-out;
     animation-name: fadeInDown;
-    background-color: rgba(19, 19, 19, 0.445);
+    background-color: rgb(33 34 35);
 }
 
 @-webkit-keyframes fadeInDown {
@@ -917,7 +917,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .navbar-dark .navbar-toggler,
 .navbar-white .navbar-toggler,
 .navbar-cyan .navbar-toggler{
-    background: #086bfe ;
+    background: #a52038 ;
     border-color: #333
 }
 .navbar-white .navbar-toggler-icon{
@@ -2454,7 +2454,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
  .list-marked i{
     font-weight: normal;
     margin-right: 10px;
-    color: #9a68ed;
+    color: #a52038;
     line-height: 30px;
     text-align: center;
     background: rgba(255,255,255,0.09);
