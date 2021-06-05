@@ -66,7 +66,7 @@ h4,
 h5,
 h6 {
     font-family: 'Poppins', sans-serif;
-    color: #dd4b2d;
+    color: #ff0a4e;
     line-height: 1.4;
     font-weight: 500;
 }
@@ -692,7 +692,7 @@ ol {
 .dream-dots span {
     font-weight: bold;
     display: inline-block;
-    background-image: linear-gradient(135deg, #846FF4 0%, #F17674 100%);
+    background-image: linear-gradient(to right, #ff260071 0%, #ff00008e 50%, #d34a21 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -700,7 +700,7 @@ ol {
 }
 
 .dream-dots span:first-child {
-    background-color: #00a8ff;
+    background-color: #eeff00;
 }
 
 .dream-dots span:nth-child(2) {
@@ -801,7 +801,7 @@ ol {
     color: #fff;
     box-shadow: 0 3ox 20px rgba(0, 0, 0, 0.1);
     border-radius: 100px;
-    background-image: linear-gradient(to right, #21d397 0%, #7450fe 50%, #21d397 100%);
+    background-image: linear-gradient(to right, #d33c2171 0%, #fe50508e 50%, #d34a2179 100%);
     background-image: -webkit-linear-gradient(to right, #21d397 0%, #7450fe 50%, #21d397 100%);
     border: 1px solid #fff;
     -webkit-transition: all 500ms;
@@ -1029,7 +1029,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 }
 .hero-section.moving{
     overflow: hidden;
-    background: url(../img/bg-img/header-1.jpg) no-repeat center top; 
+    background: url(../img/bg-img/header-1.png) no-repeat center top; 
 }
 .moving-bg {
     position: absolute;
