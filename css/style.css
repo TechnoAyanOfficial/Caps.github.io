@@ -157,10 +157,10 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: #4834d4;
-    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
-    background: -webkit-linear-gradient(left, #4834d4, #341f97);
-    background: linear-gradient(to right, #4834d4, #341f97);
+    background: #ff3838;
+    background: -webkit-linear-gradient(to right, #c92b2b, #ff9036);
+    background: -webkit-linear-gradient(left, #c92b2b, #ff9036);
+    background: linear-gradient(to right, #c92b2b, #ff9036);
 }
 
 .preload-content {
@@ -749,7 +749,7 @@ ol {
 .login-btn:hover,
 .login-btn:focus {
     color: #fff;
-    background: #4d010100;
+    background-image: linear-gradient(to right, #d33c2157 0%, #fe505079 50%, #d34a2171 100%);
     border-color: #a52038;
 }
 
@@ -935,10 +935,10 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
         padding: 5px 12px;
         color: #333
     }
-    .navbar-expand-lg.navbar-dark {background: rgb(215, 223, 239);}
+    .navbar-expand-lg.navbar-dark {background: rgb(236, 236, 236);}
     .navbar-collapse{
         padding-top: 20px;
-        background: rgb(215, 223, 239)
+        background: rgb(255, 255, 255)
     }
 }
 .navbar-white.shrink .navbar-brand,
