@@ -118,6 +118,8 @@ ol {
     text-align: center;
     margin: 0 auto
 }
+
+
 .bg-title {
     margin-bottom: -37px;
     margin-left: -30px;
@@ -155,10 +157,10 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: #4834d4;
-    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
-    background: -webkit-linear-gradient(left, #4834d4, #341f97);
-    background: linear-gradient(to right, #4834d4, #341f97);
+    background: #ff3838;
+    background: -webkit-linear-gradient(to right, #c92b2b, #ff9036);
+    background: -webkit-linear-gradient(left, #c92b2b, #ff9036);
+    background: linear-gradient(to right, #c92b2b, #ff9036);
 }
 
 .preload-content {
@@ -737,7 +739,7 @@ ol {
     padding: 0 20px;
     min-width: 100px;
     color: #fff !important;
-    background: rgba(116, 80,254,0.7);
+    background-image: linear-gradient(to right, #d33c21c5 0%, #fe5050d3 50%, #d34a21ce 100%);
     height: 35px;
     border-radius: 50px;
     border: 1px solid #fff;
@@ -747,8 +749,8 @@ ol {
 .login-btn:hover,
 .login-btn:focus {
     color: #fff;
-    background: #7450fe;
-    border-color: #7450fe;
+    background-image: linear-gradient(to right, #d33c2157 0%, #fe505079 50%, #d34a2171 100%);
+    border-color: #a52038;
 }
 
 .dream-btn {
@@ -878,7 +880,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
  .shrink {
     animation: .3s ease-in-out;
     animation-name: fadeInDown;
-    background-color: rgba(19, 19, 19, 0.445);
+    background-color: rgb(33 34 35);
 }
 
 @-webkit-keyframes fadeInDown {
@@ -900,7 +902,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 /* mobile view */
 @media (max-width:500px)
 {
-    .navbar{ background: rgb(215, 223, 239);}
+    .navbar{ background: rgb(33 34 35);}
     .navbar-nav{
         border-top:1px solid #fed136;
         color:#fff;
@@ -917,7 +919,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .navbar-dark .navbar-toggler,
 .navbar-white .navbar-toggler,
 .navbar-cyan .navbar-toggler{
-    background: #086bfe ;
+    background: #a52038 ;
     border-color: #333
 }
 .navbar-white .navbar-toggler-icon{
@@ -933,10 +935,10 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
         padding: 5px 12px;
         color: #333
     }
-    .navbar-expand-lg.navbar-dark {background: rgb(215, 223, 239);}
+    .navbar-expand-lg.navbar-dark {background: rgb(236, 236, 236);}
     .navbar-collapse{
         padding-top: 20px;
-        background: rgb(215, 223, 239)
+        background: rgb(255, 255, 255)
     }
 }
 .navbar-white.shrink .navbar-brand,
@@ -1028,6 +1030,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     background-image: linear-gradient(106deg,#040044,#7222a7) 
 }
 .hero-section.moving{
+    opacity: 70%;
     overflow: hidden;
     background: url(../img/bg-img/header-1.png) no-repeat center top; 
 }
@@ -2453,7 +2456,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
  .list-marked i{
     font-weight: normal;
     margin-right: 10px;
-    color: #9a68ed;
+    color: #a52038;
     line-height: 30px;
     text-align: center;
     background: rgba(255,255,255,0.09);
