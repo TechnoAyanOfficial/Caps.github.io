@@ -118,6 +118,8 @@ ol {
     text-align: center;
     margin: 0 auto
 }
+
+
 .bg-title {
     margin-bottom: -37px;
     margin-left: -30px;
@@ -748,7 +750,7 @@ ol {
 .login-btn:focus {
     color: #fff;
     background: #4d010100;
-    border-color: #ff0a02;
+    border-color: #a52038;
 }
 
 .dream-btn {
