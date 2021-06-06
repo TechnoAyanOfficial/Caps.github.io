@@ -41,11 +41,12 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: #4834d4;
+    background: #8b2828;
     overflow-x: hidden;
-    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
-    background: -webkit-linear-gradient(left, #4834d4, #341f97);
-    background: linear-gradient(to right, #4834d4, #341f97);
+    background: #ff3838;
+    background: -webkit-linear-gradient(to right, #c92b2b, #ff9036);
+    background: -webkit-linear-gradient(left, #c92b2b, #ff9036);
+    background: linear-gradient(to right, #c92b2b, #ff9036);
 }
 .darker-blue{
     background: linear-gradient(180deg,#240044 0,#0f0240 25%,#400959 40%,#0f0240 65%,#0f0240);
@@ -4704,7 +4705,7 @@ textarea:required {
 .footer-content-area{
     padding: 80px 0;
     margin-top: 100px;
-    background: #192057 !important;
+    background: #2f0d0d !important;
 }
 .footer-content-area.demo{
     margin-top: 70px
