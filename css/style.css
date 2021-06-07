@@ -72,6 +72,17 @@ h6 {
     font-weight: 500;
 }
 
+
+
+dx {
+    font-family: 'Poppins', sans-serif;
+    color: #ff0a4e;
+    line-height: 2;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+
 a,
 a:hover,
 a:focus,
@@ -90,6 +101,13 @@ p {
     line-height: 1.9;
     color: rgba(255, 255, 255, 0.925);
     font-size: 15px;
+}
+
+
+ph {
+    line-height: 1.9;
+    color: rgba(255, 255, 255, 0.925);
+    font-size: 11px;
 }
 
 img {
