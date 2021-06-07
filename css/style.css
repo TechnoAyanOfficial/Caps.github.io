@@ -600,6 +600,7 @@ ol {
     position: relative;
     z-index: 1;
     margin-bottom: 80px;
+    margin-top: 130px;
 }
 
 .section-heading h2 {
@@ -1091,7 +1092,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .gradient-text{
     font-weight: bold;
     display: inline-block;
-    background-image: linear-gradient(135deg, #846FF4 0%, #F17674 100%);
+    background-image: linear-gradient(to right, #ff260071 0%, #ff00008e 50%, #d34a21 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
