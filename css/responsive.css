@@ -131,6 +131,11 @@
     .footer-side-thumbnail {
         width: 100%;
     }
+    .ico-row {
+        opacity: 190%;
+        padding-right: 35px;
+        padding-left: 35px;
+    }
     .welcome_single_slider.height-900 {
         height: 600px;
     }

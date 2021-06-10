@@ -2574,7 +2574,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .trust-item{
     background-color: #fff;
     border-radius: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     padding: 0 35px;
     min-height: 205px;
     padding-top: 37px;
@@ -2584,7 +2584,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     border-bottom: 3px solid #a843fd;
 }
 .ico-platform-logo{
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     min-height: 75px
 }
 @media (max-width: 767px){
