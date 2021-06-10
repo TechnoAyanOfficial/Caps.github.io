@@ -2460,8 +2460,14 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 .features-list{
     background: rgba(255,255,255,0.05);
     background-size: cover;
-    padding: 30px;
-    border-radius: 20px;
+    padding: 25px;
+    border-radius: 8px;
+}
+.features-list2{
+    background: rgb(16,17,18);
+    background-size: cover;
+    padding: 25px;
+    border-radius: 8px;
 }
 .features-list.v2{
 	background-image: linear-gradient(35deg, #17EAD9 0%, #6078EA 100%);
