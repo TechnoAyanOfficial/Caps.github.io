@@ -922,7 +922,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
 /* mobile view */
 @media (max-width:500px)
 {
-    .navbar{ background: rgb(33 34 35);}
+    .navbar{background: rgb(28 29 30);}
     .navbar-nav{
         border-top:1px solid #fed136;
         color:#fff;
